@@ -1,1 +1,1 @@
-idootop/mi-gpt
+nginx
