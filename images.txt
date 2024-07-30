@@ -1,1 +1,1 @@
-labring/FastGPT
+ollama/ollama
