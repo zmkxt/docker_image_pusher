@@ -1,2 +1,1 @@
-1Panel-dev/MaxKB
-IceWhaleTech/CasaOS
+1panel/maxkb
