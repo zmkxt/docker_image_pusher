@@ -1,1 +1,1 @@
-ollama/ollama
+justsong/one-api
