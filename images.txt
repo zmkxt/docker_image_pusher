@@ -1,2 +1,1 @@
-martialbe/one-api
-mzz2017/v2raya:v2.2.6.3
+mzz2017/v2raya
